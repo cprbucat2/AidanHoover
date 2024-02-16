@@ -1,4 +1,4 @@
-# AidanHoover
+# Aidan Hoover
 I am a junior Computer Science student at Rensselaer Polytechnic Institute, interested in software design and development. With a foundation in Data Structures and Algorithms and programming languages such as Python and C++, I am dedicated to learning new technologies and expanding my area of knowledge to create and contribute to innovative software solutions. 
 
 ### I'm currently working on:
