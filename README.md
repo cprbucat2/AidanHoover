@@ -9,6 +9,6 @@ I am a junior Computer Science student at Rensselaer Polytechnic Institute, inte
 - RPI Rugby: President and one of the women's captains, previous webmaster and women's equipment chair. RPI Women's Rugby Club competes in the Division 2 Tri-State Women's Collegiate Rugby Conference.
 - RPI Leadership Educators Advising Peers (LEAP): Using experiential learning and peer education to develop and facilitate workshops that focus on communication, problem solving, conflict management, and team building.
 
-### Connect with me:
+### Contact me:
 - Email: hooveraidan2021@gmail.com
 - Linkedin: [@Aidan Hoover](https://www.linkedin.com/in/aidan-hoover/)
