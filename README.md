@@ -6,8 +6,8 @@ I am a Computer Science student at Rensselaer Polytechnic Institute graduating M
 - Assisting in research for the High Performance Combinatorics and Graph Analytics Laboratory at Rensselaer Polytechnic Institute.
 
 ### Organizations:
-- RPI Rugby: President and one of the women's captains, previous webmaster and women's equipment chair. RPI Women's Rugby Club competes in the Division 2 Tri-State Women's Collegiate Rugby Conference.
-- RPI Leadership Educators Advising Peers (LEAP): Using experiential learning and peer education to develop and facilitate workshops that focus on communication, problem solving, conflict management, and team building.
+- **RPI Rugby**: President and one of the women's captains, previous webmaster and women's equipment chair. RPI Women's Rugby Club competes in the Division 2 Tri-State Women's Collegiate Rugby Conference.
+- **RPI Leadership Educators Advising Peers (LEAP)**: Using experiential learning and peer education to develop and facilitate workshops that focus on communication, problem solving, conflict management, and team building.
 
 ### Experience
 - **RPI Computer Science Department:**
@@ -15,9 +15,14 @@ I am a Computer Science student at Rensselaer Polytechnic Institute graduating M
 exercises in python during office hours.
     - August 2022 - December 2022
     - August 2023 - December 2023
-  - *Principles of Software Mentor*: Assisted around 400 CSCI 2600 students with assignments teaching them important concepts in software design including reasoning, inheri‑
-tance and polymorphism, and design patterns using primarily Java and Dafny during office hours
+  - *Principles of Software Mentor*: Assisted around 400 CSCI 2600 students with assignments teaching them important concepts in software design including reasoning, inheritance and polymorphism, and design patterns using primarily Java and Dafny during office hours
     - January 2024 - May 2024
+- **RPI Archer Center for Student Leadership Development**
+  - *LEAP Summer Intern*: Facilitated and led training’s, and wrote outlines to educate various groups on teamwork, communication, and leadership. These groups included MCLA’s Freshman class, RPI Bridge Program, RPI PREFACE Program, RPI RA Training, and more.
+    - May 2023 - August 2023
+- **RPI Student Living and Learning**
+  - *Resident Assistant*: Enforced university and residence hall rules and regulations, supervised, responded to complaints, and provided resources to residents.
+    - May 2023 - August 2023
 
 ### Contact me:
 - Email: hooveraidan2021@gmail.com
